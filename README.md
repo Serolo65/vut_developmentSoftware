@@ -1,2 +1,2 @@
 # vut_developmentSoftware
-javaScript
+javaScript EUI
